@@ -1,0 +1,7 @@
+github  开源的分布式版本管理系统
+
+1、git客户端安装
+linxu系统:yum install -y git
+windows系统:https://git-scm.com/downloads
+Mac系统:brew install git
+
